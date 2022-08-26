@@ -1,0 +1,24 @@
+{
+  "name": "coding-dojo-aug-26",
+  "version": "1.0.0",
+  "description": "A simple Coding Dojo task",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.spec.js",
+    "test:watch": "mocha **/*.spec.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerike/coding-dojo-aug-26.git"
+  },
+  "author": "Gergo Kovacs <gergo.richard.kovacs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerike/coding-dojo-aug-26/issues"
+  },
+  "homepage": "https://github.com/Gerike/coding-dojo-aug-26#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
