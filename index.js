@@ -1,6 +1,6 @@
-const convert = () => {};
+const add = () => {};
 
-module.exports = { convert: convert };
+module.exports = { add: add };
 
 
 
